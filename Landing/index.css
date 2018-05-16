@@ -3,7 +3,9 @@
         width:400px;
     }
     #howToHead{
-        height:350px;
+        height:400px;
+        max-height: 500px;
+        padding-bottom: 50px;
     }
 }
 
